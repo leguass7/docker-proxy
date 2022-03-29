@@ -1,0 +1,4 @@
+data
+!.env.sample
+.DS_Store
+/nginx-data
